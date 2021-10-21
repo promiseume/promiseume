@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ### Hello
 I am Promise Ume
+I am a Frontend Developer that really loves React
