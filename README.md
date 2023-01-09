@@ -3,9 +3,9 @@
 
 
 - 🔭 I’m a Frontend Developer that really loves React
-- 🌱 I’m currently learning Blockchain and NodeJs
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on any open source project and build interesting tools
 - 💬 Ask me about React,Biology and food lol
 - 📫 How to reach me: ngoziume1@gmail.com
 - 😄 Pronouns: Her/she
-- ⚡ Fun fact: 
+
